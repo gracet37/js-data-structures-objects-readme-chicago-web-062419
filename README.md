@@ -218,7 +218,7 @@ address['zipCode'];
 ```
 
 Bracket notation is a bit harder to read than dot notation, so we always default
-to the latter. However, there are two main situations in which to use bracket
+to the former. However, there are two main situations in which to use bracket
 notation.
 
 #### With Nonstandard Keys
